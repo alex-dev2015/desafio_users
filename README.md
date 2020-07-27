@@ -46,3 +46,5 @@ $ npm run server
 ```
 
 ## Usage <a name = "usage"></a>
+
+![users](https://github.com/alex-dev2015/desafio_users/blob/master/frontend/img/Desafio%202.gif)
