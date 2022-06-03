@@ -107,7 +107,7 @@
     },
     {
       "gender": "male",
-      "name": { "title": "Mr", "first": "Eliseu", "last": "Castro" },
+      "name": { "title": "Mr", "first": "Alex", "last": "Nascimento" },
       "location": {
         "street": { "number": 163, "name": "Rua Treze " },
         "city": "Tatuí",
@@ -117,7 +117,7 @@
         "coordinates": { "latitude": "-38.8638", "longitude": "132.0850" },
         "timezone": { "offset": "-2:00", "description": "Mid-Atlantic" }
       },
-      "email": "eliseu.castro@example.com",
+      "email": "alex.sousaexample.com",
       "login": {
         "uuid": "afd65cb0-a158-45a2-a052-8a45e2dd020f",
         "username": "whitewolf784",
@@ -127,15 +127,15 @@
         "sha1": "f6fce3a4e0121e4c103dd6e8b4cce37579fa1e11",
         "sha256": "9e809c1de08f6415878f50601ed385f8efecff12f76e4fdc6ddcccb4a5913489"
       },
-      "dob": { "date": "1972-03-25T01:53:22.559Z", "age": 48 },
+      "dob": { "date": "1987-08-24T01:53:22.559Z", "age": 34 },
       "registered": { "date": "2006-02-09T08:17:47.407Z", "age": 14 },
-      "phone": "(89) 6957-9217",
+      "phone": "(98) 8888-3663",
       "cell": "(08) 2741-4635",
       "id": { "name": "", "value": null },
       "picture": {
-        "large": "https://randomuser.me/api/portraits/men/24.jpg",
-        "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
-        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+        "large": "https://i.postimg.cc/RZpzJSxH/Alex.jpg",
+        "medium": "https://i.postimg.cc/RZpzJSxH/Alex.jpg",
+        "thumbnail": "https://i.postimg.cc/RZpzJSxH/Alex.jpg"
       },
       "nat": "BR"
     },
