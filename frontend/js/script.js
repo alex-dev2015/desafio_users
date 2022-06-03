@@ -79,7 +79,7 @@ async function fetchUsers(users) {
   });
 
   const filtered = globalUsers.filter((usefilter) => {
-    return usefilter.name.toLowerCase().indexOf(users) !== -1;
+    return usefilter.name.includes(users);
   });
 
   render(filtered);
